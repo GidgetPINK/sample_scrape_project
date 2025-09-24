@@ -1,0 +1,15 @@
+CompanyID,CompanyName,Category,Email,Phone,Country
+1001,Alpine Foods,Grocery,contact@alpinefoods.com,+15551234567,United States
+1002,Bluesky Media,Media,info@blueskymedia.com,+15552345678,United States
+1003,Canyon Logistics,Logistics,,+15553456789,United States
+1004,Delta Dynamics,Manufacturing,sales@deltadynamics.co,+15553456790,Canada
+1005,Everest Labs,Tech,support@everestlabs.ai,+15554567890,Canada
+1006,Foxtrot Apparel,Retail,hello@foxtrotapparel.com,+442079460958,United Kingdom
+1007,Glacier Health,Healthcare,help@glacierhealth.org,02079460958,United Kingdom
+1008,Horizon  Studios,Media,media@horizonstudios.tv,+15555678901,United States
+1009,Indigo Ventures,Finance,,,United States
+1010,Juniper & Co.,Grocery,sales@juniperandco.com,+15556789012,United States
+1011,Kilo Kitchens,Grocery,support@kilokitchens.com,+15551234567,United States
+1012,Lumen Energy,Energy,,+15557890123,Canada
+1013,Mango Motors,Automotive,sales@mangomotors.com,+15558901234,Mexico
+1014,North Peak  Group,Finance,contact@northpeakgroup.com,+15559012345,United States
